@@ -1,0 +1,14 @@
+[project]
+name = "laws-mcp"
+version = "0.1.0"
+description = "Iranian laws MCP server — index, read and download laws from ekhtebar.ir (pdftotext + VLM OCR fallback)."
+requires-python = ">=3.11"
+dependencies = [
+  "mcp>=1.0,<2",
+  "httpx",
+  "beautifulsoup4",
+  "lxml",
+]
+
+[tool.uv]
+package = false
