@@ -1,0 +1,580 @@
+CITATION: Zarei v Iran, 2021 ONSC 3377
+COURT FILE NO.: CV-20-635078
+DATE: 20210520
+
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+B E T W E E N:
+MEHRZAD ZAREI personally and on behalf of the Estate of ARAD
+ZAREI deceased or as Personal Representative of ARAD ZAREI
+deceased and
+SHAHIN MOGHADDAM personally and on behalf of the Estate of
+SHAKIBA FEGHAHATI deceased or as Personal Representative of
+SHAKIBA FEGHAHATI deceased and on behalf of the Estate of
+ROSSTIN MOGHADDAM deceased or as Personal Representative of
+ROSSTIN MOGHADDAM deceased and
+ALI GORJI, personally and on behalf of the Estate of POUNEH
+GORJI deceased or as Personal Representative of POUNEH GORJI
+deceased and on behalf of the Estate of ARASH POURZARRADI
+deceased or as Personal Representative of ARASH POURZARRADI
+deceased and
+JOHN DOE, JANE DOE, BILL DOE and SAM DOE
+Plaintiffs
+-andISLAMIC REPUBLIC OF IRAN, ISLAMIC REVOLUTIONARY
+GUARD CORPS, aka ARMY OF THE GUARDIANS OF THE
+ISLAMIC REVOLUTION also known as IRANIAN
+REVOLUTIONARY GUARD CORPS, IRANIAN ARMED FORCES
+aka ARMED FORCES OF THE ISLAMIC REPUBLIC OF IRAN,
+ALI KHAMENEI also known as SUPREME LEADER OF IRAN,
+MOHAMMAD BAGHERI also known as MOHAMMAD-HOSSEIN
+AFSHORDI, HOSSEIN SALAMI, SEYYED ABDOLRAHIM
+MOUSAVI and AMIR ALI HAJIZADEH
+Defendants
+
+- Page 2 -
+
+BEFORE:
+
+Justice Edward Belobaba
+
+COUNSEL: Mark H. Arnold and Jonah Arnold for the Plaintiffs1
+No one appearing for the Defendants noted in default
+HEARD:
+
+In writing
+
+Motion for Default Judgment – Liability
+
+[1]
+The plaintiffs move for default judgment in this action against the Islamic
+Republic of Iran, the Islamic Revolutionary Guard Corps and the other named Iranian
+defendants to establish their liability for shooting down Ukraine International Airline
+Flight PS 752 on January 8, 2020. The missile attacks destroyed the aircraft and killed all
+167 passengers and 9 crew on board, including family members of the plaintiffs.
+[2]
+Normally, where a defendant fails to defend and is noted in default (as happened
+here) the defendant is deemed under Rule 19.02 to admit the truth of the allegations of
+fact made in the claim. Here, however, the primary defendant is a foreign state. Under
+section 3(1) of the State Immunity Act,2 a foreign state is immune from the jurisdiction of
+any court in Canada “except as provided” by this Act. Section 3(2) of the SIA makes
+clear that the state immunity protection extends even to a foreign state that has been
+noted in default:
+In any proceedings before a court, the court shall give effect to the
+immunity conferred on a foreign state by subsection (1) notwithstanding
+that the state has failed to take any step in the proceedings.
+
+[3]
+Therefore, it is not enough that the defendant state has been noted in default. The
+plaintiffs must satisfy the court that its action against Iran is permitted under federal
+legislation and if so, that liability and damages can be established.
+
+1
+
+I note that Mr. Zafir Jetha-Rattani, a law student at Osgoode Hall Law School, is also a member of the plaintiffs’
+legal team.
+2
+
+State Immunity Act, R.S.C., 1985, c. S-18.
+
+- Page 3 -
+
+[4]
+In a procedural Order dated January 25, 2021, Sanderson J. directed that the
+motion for default judgment establishing liability be heard in writing. If liability is
+established, the plaintiffs will then seek a judgment on damages.
+[5]
+The State Immunity Act, together with its companion enactment, the Justice for
+Victims of Terrorism Act3 permit civil claims against foreign states where the losses
+sustained were caused by the state’s “commercial activity” and, in more limited
+circumstances, “terrorist activity”. The plaintiffs focus on the “terrorist activity”
+exception. In their Fresh as Amended Statement of Claim, they allege that the Iranian
+defendants’ attack on Flight 752 was an intentional act of terrorism.
+[6]
+As I explain further below, any such judicial finding must satisfy the statutory
+requirements set out in the SIA, the JVTA and the Criminal Code.4
+[7]
+I am assisted in this regard by the expert reports filed by Dr. Bahman Jeldi of the
+Canadian Society for Persian Studies and Mr. Alireza Nader, Senior Fellow at the
+Washington-based Foundation for the Defense of Democracies. Both Dr. Jeldi and Mr.
+Nader are qualified experts on Iranian political and military matters: see my rulings in the
+attached Appendix.
+[8]
+
+I will briefly set out the background.
+
+Background
+[9]
+The actual events of January 8, 2020 are not in dispute. The grim chronology, as
+set out in numerous international reports and media investigations, can be summarized as
+follows.
+[10] Ukraine International Airlines Flight PS 752 (a Boeing 737-800) was shot down
+by two Islamic Revolutionary Guard Corps (“IRGC”) Tor M-1 missiles shortly after
+departing Tehran for Kiev. The first missile hit at 6:15 a.m., the second about 30 seconds
+later. Engulfed in flames, Flight 752 turned to return to the airport and continued flying
+for another four minutes. Then it crashed. All 167 passengers (55 Canadian citizens, 30
+permanent residents and 53 others on their way to Canada) and 9 crew were killed.
+[11] After several days, the IRGC publicly admitted responsibility for the crash,
+blaming human error. The commander of the IRGC Aerospace Force said a defense
+system operator mistook the passenger jet for a cruise missile. Iranian media offered two
+
+3
+
+Justice for Victims of Terrorism Act, S.C. 2010, c.1, s.2.
+
+4
+
+R.S.C. 1970, c. C-34, as am.
+
+- Page 4 -
+
+explanations: that it was a mistake made by a junior IRGC officer operating the missile
+system or the result of electronic warfare by the U.S. Army that caused the missile
+system to see the Boeing 737-800 airplane as a U.S. cruise missile.
+The plaintiffs
+[12] Four plaintiffs bring this action as personal or estate representatives of the named
+deceased and as their surviving family members.
+[13] Merzhad Zarei lost his 18-year-old son, Arad, and sues on his behalf. Shahin
+Moghaddam lost his wife Shakiba and their son Rossitin. Ali Gorji lost his niece Poureh
+and her husband Arash. They were newlyweds. The fourth plaintiff, Jane Doe, was also
+newly married. She had intended to take Flight 752 with her husband but was unable to
+obtain a visa in time for the flight. Ms. Doe asks for anonymity for fear of reprisal from
+the defendants. I grant this request for the reasons set out in the Appendix.
+[14] Counsel advises that the three remaining Does are place-holders for plaintiffs who
+fear similar reprisals and may be added to the action.
+[15] I am satisfied on the evidence that the three named plaintiffs are Canadian citizens
+or permanent residents of Canada. Jane Doe is a Canadian refugee claimant. The
+plaintiffs, their deceased family members and this action all have a real and substantial
+connection to Canada. In addition to claiming damages for terrorism, they also plead
+losses sustained under Section 61 of the Family Law Act.5
+[16] The nature and extent of the damages claims is not part of this motion for default
+judgment on liability. Damages will be addressed in a subsequent proceeding.
+Service of the claims on defendants
+[17] The Statement of Claim was issued on January 24, 2020 and forwarded to Global
+Affairs Canada on January 28, 2020, to be served on the defendants. Under s. 9 of the
+SIA, the Canadian Minister of Foreign Affairs (Global Affairs Canada) is authorized to
+serve such claims on foreign state defendants. Eventually, service was achieved. GAC
+confirmed serving the claim and issued a Certificate of Service on September 1, 2020.
+[18] In his Order of October 5, 2020, Master McGraw directed that Statements of
+Defence be delivered by November 13, 2020, failing which the defendants could be noted
+in default. The defendants were noted in default on December 21, 2020.
+
+5
+
+R.S.O. 1990, c. F.3.
+
+- Page 5 -
+
+The applicable legislation
+[19] In 2012, Canada amended the SIA and enacted the JVTA to address the growing
+threat of international terrorism. As the Court of Appeal noted in Tracy v Iran,6 it was
+Parliament’s intention “to carve out a new exception to state immunity for the purposes
+of (i) deterring terrorism and (ii) making it easier for plaintiffs to make claims against
+states that support terrorism and that have assets in Canada that could assist in satisfying
+a judgment”.7
+[20] The amended SIA allows the federal Cabinet to “list” foreign states or entities that
+are supporters of terrorism. Section 6.1(1) provides that a listed state or entity “is not
+immune from the jurisdiction of a court in proceedings against it for its support of
+terrorism”. If a foreign state or entity is listed as a supporter of terrorism, the immunity
+against lawsuits is lifted under the JVTA.
+[21] Section 4(1) of the JVTA creates a civil cause of action for claims against listed
+supporters of terrorism if the actions of the foreign state or entity that caused loss or
+damage are actions that are terrorism offences as set out in the Criminal Code. Section
+4(1) of the JVTA provides as follows:
+Any person that has suffered loss or damage in or outside Canada on or
+after January 1, 1985 as a result of an act or omission that is, or had it
+been committed in Canada would be, punishable under Part II.1 of
+the Criminal Code, may, in any court of competent jurisdiction, bring an
+action to recover an amount equal to the loss or damage proved to have
+been suffered by the person and obtain any additional amount that the
+court may allow, from any of the following:
+…
+(b) a foreign state whose immunity is lifted under section 6.1 of the State
+Immunity Act, or listed entity or other person that … committed an act or
+omission that is, or had it been committed in Canada would be,
+punishable under any of ss. 83.02 to 83.04 and 83.18 to 83.23 of
+the Criminal Code.
+
+6
+
+Tracy v. Iran (Information and Security), 2017 ONCA 549.
+
+7
+
+Ibid., at para. 52.
+
+- Page 6 -
+
+[22] On September 7, 2012 under Section 6.1(2) of the SIA and the requisite Order-inCouncil, the Islamic Republic of Iran was listed as a foreign state sponsor of terrorism
+and remains so to this day.8
+[23]
+
+As the Court of Appeal explained in Tracy v Iran:9
+A plain reading of the JVTA, together with the contemporaneous
+amendments to the SIA, establishes that Iran’s immunity from civil
+proceedings related to terrorism was lifted in September 2012, exposing
+them to liability for acts of terrorism they supported that occurred on or
+after January 1, 1985.
+
+[24] Although the JVTA itself does not explicitly state that only foreign states on the
+list established by the Cabinet under s. 6.1(2) of the State Immunity Act may be sued
+using the cause of action described in s. 4(1) of the JVTA, the practical effect of the
+amendments introduced by the SIA is that only listed foreign states may be sued. This is
+because the amendments to the SIA create an exception to state immunity only for listed
+states that support terrorism.10
+[25]
+
+Section 2 of the SIA defines “terrorist activity”:
+Terrorist activity in respect of a foreign state has the same meaning as in
+subsection 83.01(1) of the Criminal Code provided that a foreign state set
+out on the list referred to in subsection 6.1(2) does the act or omission on
+or after January 1, 1985.
+
+[26] Under the amended SIA and the JVTA, the plaintiffs are permitted to sue the
+Iranian defendants for shooting down Flight 752 if they can establish that the missile
+attacks were actions that would be punishable in Canada under any of ss.
+83.02 to 83.04 and 83.18 to 83.23 of the Criminal Code.
+[27]
+
+Section 83.02 (a) is the most relevant herein:
+83.02 Every person is guilty of an indictable offence and liable to
+imprisonment for a term of not more than 10 years who, directly or
+indirectly, wilfully and without lawful justification or excuse, provides
+
+8
+
+Order Establishing a List of Foreign State Supporters of Terrorism, S.O.R. 2012-170.
+
+9
+
+Supra, note 6, at para. 46.
+
+10
+
+Ibid., at para. 53.
+
+- Page 7 … property intending that it be used or knowing that it will be used, in
+whole or in part, in order to carry out
+(a) an act or omission that constitutes an offence referred to in
+subparagraphs (a)(i) to (ix) of the definition of terrorist activity in
+subsection 83.01(1);
+
+[28] Section 83.01(1) of the Criminal Code defines “terrorist activity”. The civil
+aviation dimension in this definition and the corresponding provisions that best apply on
+the facts herein are set out in s. 83.01(1)(a)(ii) which links to ss. 7(2) and 77 as follows:
+83.01(1)(a) An act or omission that is committed in or outside Canada
+and that, if committed in Canada, is one of the following offences:
+…
+(ii) the offences referred to in subsection 7(2) that implement the
+Convention for the Suppression of Unlawful Acts against the Safety of
+Civilian Aviation, signed at Montréal on September 23, 1971…
+7(2) Notwithstanding this Act or any other Act, everyone who … (b) in
+relation to an aircraft in service, commits an act or omission outside
+Canada that if committed in Canada would be an offence against any of
+paragraphs 77 (c), (d) or (g) …
+77(c) Everyone who … causes damage to an aircraft in service that
+renders the aircraft incapable of flight or that is likely to endanger the
+safety of the aircraft in flight… is guilty of an indictable offence and
+liable to imprisonment for life.
+
+[29] The definition of “terrorist activity” in s. 83.01(1) of the Criminal Code concludes
+by making clear that the definition does not include acts committed during “an armed
+conflict” that accords with customary international law:
+… for greater certainty, [“terrorist activity”] does not include an act or
+omission that is committed during an armed conflict and that, at the time
+and in the place of its commission, is in accordance with customary
+international law or conventional international law applicable to the
+conflict, or the activities undertaken by military forces of a state in the
+exercise of their official duties, to the extent that those activities are
+governed by other rules of international law.
+
+[30] I pause here to note that the plaintiffs also plead the more conventional
+understanding of “terrorist activity” as defined in s. 83.01(1)(b) — an act or omission that
+is committed for “a political, religious or ideological purpose, objective or cause with the
+intention of intimidating the public … with regard to its security …”.
+
+- Page 8 -
+
+[31] This case however, involves the shooting down of a civilian passenger plane.
+Therefore, the definition of “terrorist activity” as set out in s. 83.01(1)(a), which
+explicitly deals with civil aviation, provides a sufficient platform for analysis.
+[32] Because this is a civil action, the applicable burden of proof is balance of
+probabilities.11
+Two issues
+[33] As already noted, the actual events of January 8, 2020 are not in dispute — the
+defendants shot down a civilian passenger jet, Ukrainian Airlines Flight 752, with two
+missiles spaced 30 seconds apart, killing all onboard.
+[34] The applicable law, as set out above, requires that the court focus on two issues:
+(i) whether the missile attacks were intentional;12 and (ii) whether these actions occurred
+during an armed conflict. Both questions can be answered on the balance of probabilities.
+[35] For the reasons that follow, I answer both questions in favour of the plaintiffs. The
+plaintiffs have established on a balance of probabilities that the missiles were launched
+intentionally and during a time in which there was no armed conflict.
+Analysis
+(1) The missile attacks were intentional
+[36] In the many reports that have studied the shoot-down of Flight 752, most
+researchers linked this deadly event to what had happened five days before.
+[37] On January 3, 2020, the United States launched a drone strike killing terrorist
+Qasem Soleimani, Commander of the Islamic Revolutionary Guard Corps' Qods Force
+near Baghdad Airport in Iraq. U.S. officials reported that General Soleimani was
+planning imminent attacks on Americans and had to be stopped.
+[38] The plaintiffs submit that the shoot-down of Flight 752 was Iran’s retaliation for
+the killing of Soleimani. They point to what Iran said in its Final Report of the Aircraft
+Accident Investigation Board of the Islamic Republic of Iran dated March 15, 2021. Iran
+itself suggested the linkage:
+
+11
+
+12
+
+Tracy, supra, note 6, at para. 65
+
+It is trite law that mens rea or ‘knowledge of wrongdoing’ is generally required for a criminal conviction — in this
+civil action, as already noted, this knowledge or intention requirement can be established on a balance of
+probabilities.
+
+- Page 9 Iran strongly condemned the assassination (of Gen. Soleimani) and
+officially declared it a clear example of state terrorism, the responsibility
+for the consequences of which would rest entirely with the U.S. regime.
+Iranian officials also vowed they would exact revenge on the U.S. action
+appropriately. (Emphasis added).
+
+[39] These comments are relevant but not determinative. The evidence that allows this
+court to find on a balance of probabilities that the missiles attacks on Flight 752 were
+intentional are the findings in the numerous reports that have studied the matter including
+the two expert reports filed by the plaintiffs.
+[40] One example is the report of Ralph Goodale, Special Advisor to Canadian Prime
+Minister.13 The Goodale Report rejects Iran’s claims of human and technical error and
+concludes that the Iranian claims are unsubstantiated. Those claims allege that the missile
+defense battery made a 107-degree directional error, that IRGC personnel lost all contact
+with the command center for several crucial seconds and the operators, “mistook a [130foot] long commercial passenger jet taking off and ascending from east to west for some
+sort of threatening aircraft or missile coming in from west to east.”
+[41] Another example is the report of Agnes Callamard, Special Rapporteur to the
+United Nations Human Rights Council. The Callamard Report14 of February 23, 2021
+examines the missile attacks in detail and also disputes the Iranian government’s claims
+that the shooting down of Flight 752 was an “accident” due to “human error.” The UN
+Special Rapporteur concludes that "the inconsistencies in the official explanations seem
+designed to create a maximum of confusion and a minimum of clarity. They seem
+contrived to mislead and bewilder".
+[42] I rely mainly on the expert reports filed by the plaintiffs. The expert reports are
+detailed in their analyses and unequivocal in their conclusions. In the opinion of Dr. Jeldi,
+an Iranian analyst with the Canadian Society for Persian Studies, “the IRGC knew Flight
+PS 752 was a civilian airplane and purposefully shot it down with the intent to destroy
+it.” Dr. Jeldi explains:
+Considering the TOR-M1 advanced military capabilities, two radars and
+control system, pre-approved flight plans and control of the airspace
+resting with the IRGC, and the firing of not one, but two missiles, it is
+
+13
+
+Report of the Special Advisor to the Prime Minister, Government of Canada, Flight 752: The Long Road to
+Transparency, Accountability and Justice, (December 2020).
+14
+
+Agnes Callamard, Mandate of Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions,
+(December 24, 2020) (AL IRN 28/2020).
+
+- Page 10 not possible for two missiles to be fired by mistake as IRGC claims.
+There are multiple redundant systems and procedures to prevent
+accidental shooting of civilian aircraft. Also, the IRCG did not target the
+other aircraft in flight at the same time. The military in Iran controlled
+the airspace and aircraft within that space and knew that Ukraine
+International Airways PS 752 was a civil aircraft and was not hostile.
+In my opinion, based upon the research I have conducted, the documents
+reviewed and listed and my experience, the Islamic Republic of Iran,
+IGRC and other parties listed as defendants in this claim planned and
+deliberately committed the intentional act of shooting down Ukrainian
+International Airlines PS 752 on January 8, 2020.
+
+[43] This was also the conclusion of Elireza Nader, Senior Fellow at the Foundation for
+the Defense of Democracies:
+It is my opinion that the IRGC’s shoot down of PS752 was intentional. It
+is highly unlikely that the IRGC operators mistook PS752 for a U.S.
+missile as the Iranian government claims. It is highly unlikely that a
+technical “misalignment” or “human error” caused the IRGC operators to
+shoot down PS752. The firing of not one but two surface-to-air missiles
+at PS752 also reinforces the intentional nature of the IRGC’s actions.
+
+[44] Based on these national and international reports and in particular on the detailed
+analyses in the Jeldi and Nader expert reports, I find on a balance of probabilities that the
+missile attacks on Flight 752 were intentional.
+(2) There was no “armed conflict”
+[45] Likewise, I find on a balance of probabilities, that the “armed conflict” exception
+is not available to the defendants because there was no armed conflict in the region at the
+time in question.
+[46] Strictly speaking, the onus is on the defendants to lead evidence of any such
+armed conflict. As the Supreme Court of Canada noted in Khawaja,15 the purpose of the
+“armed conflict” exception is to exempt conduct during an armed conflict that is in
+accordance with applicable international law. The “armed conflict” exception is only
+available as a defence. In a criminal trial, the onus is on the accused to raise the exception
+and provide a prima facie case that it applies.16
+
+15
+
+R. v. Khawaja, [2012] S.C.J. No 69.
+
+16
+
+Ibid., at paras. 98-100.
+
+- Page 11 -
+
+[47] Here, the defendants have been noted in default. They are not before the court on
+this motion for default judgment. I can nonetheless make a finding on the “armed
+conflict” issue on a balance of probabilities based on the evidence adduced by the
+plaintiffs.
+[48] As this court has noted, this particular finding can be based on “books, articles and
+the opinions of international law experts."17 In the matter before me, I base my finding on
+the following reports and expert opinions.
+[49] UN Special Rapporteur Agnès Callamard concluded in her report of August 15,
+202018 that there was no armed conflict in the region on or around January 8, 2020. She
+said this:
+In the months preceding the [Soleimani] strike, neither the US nor Iran
+spoke of their being in armed conflict with the other… Following the
+Soleimani strike, the US administration officially declared that the
+“United States is not currently engaged in any use of force against Iran”,
+and that following the strike and Iran’s response, “there have been no
+further uses of force between Iran and the United States”. Iran’s Foreign
+Minister declared the strike an “act of terrorism”, and Iran promised
+revenge. But no action or statement has been made suggesting that either
+State considered themselves to be at war, either before or after the strike
+against General Soleimani.
+
+[50] Messrs. Jeldi and Nader, the two Iran experts, also concluded that there was no
+armed conflict in the region during the time of the missile attacks on Flight 752. Dr. Jeldi
+stated the following:
+Although there were skirmishes in the region between Iran and the
+United States of America surrounding the Soleimani incident, those
+skirmishes did not amount to an armed conflict between those countries
+
+[51] After a detailed review of the evidence, Mr. Nader also concluded that there was
+no armed conflict in the region when Flight 752 was shot down.
+
+17
+
+18
+
+R. v. N.Y., 2008 CANLII 24543 (ONSC), at para. 77.
+
+Anges Callamard, Use of Armed Drones for Targeted Killings A/HRC/44/38, Report of Special Rapporteur on
+Extrajudicial, Summary or Arbitrary Executions (August 15, 2020) at Annex, Part II, paras. 24 and 39.
+
+- Page 12 -
+
+Conclusion
+[52] I find on a balance of probabilities that the missile attacks on Flight 752 were
+intentional and directly caused the deaths of all onboard. I further find on a balance of
+probabilities that, at the time in question, there was no armed conflict in the region.
+[53] The plaintiffs have established that the shooting down of Flight 752 by the
+defendants was an act of terrorism and constitutes “terrorist activity” under the SIA, the
+JVTA and the provisions of the Criminal Code, as discussed above.
+[54]
+
+The plaintiffs are entitled to default judgment on liability.
+
+Disposition
+[55]
+
+The motion for default judgment on liability is granted.
+
+[56]
+
+I shall remain seized with respect to the damages trial.
+
+[57] The plaintiffs ask for $157,569 in costs on a full indemnity basis. This costs
+request is inclusive of fees, disbursements and HST and covers all work done to date
+including the numerous court attendances. I have reviewed the costs outline and find it to
+be fair and reasonable.
+[58] Under s. 131 of the Courts of Justice Act19 and Rule 57.01(4)(d) the court has the
+discretion to award the costs on an elevated basis not only for egregious conduct during
+the course of the litigation but also (albeit rarely) for egregious and blameworthy prelitigation conduct.20 As the Alberta Court of Appeal noted in Pillar Resources:
+Where the positive misconduct of the party which gives rise to the action
+is so blatant and is calculated to deliberately harm the other party, then
+despite the technically proper conduct of the legal proceedings, the very
+fact that the action must be brought by an injured party to gain what was
+rightfully his in the face of an unreasonable denial is in itself positive
+misconduct deserving of indemnification whether punitive damages are
+awarded or not.21 (My emphasis).
+
+19
+
+R.S.O. 1990, c. C.43.
+
+20
+
+Hunt v. TD Securities Inc. (2003), 66 O.R. (3d) 481 (C.A.) at para. 123; Davies v Clarington (Municipality), 2009
+ONCA 722 at para. 30.
+21
+
+Pillar Resource Services Inc. v PrimeWest Energy Inc. [2017] A.J. No. 41 (C.A.) at para. 89.
+
+- Page 13 -
+
+[59] In my view, the facts and findings herein fully support an award of costs on a full
+indemnity basis.
+[60]
+
+Order to go accordingly.
+
+Signed: Justice Edward P. Belobaba
+Notwithstanding Rule 59.05, this Judgment [Order] is
+effective from the date it is made, and is enforceable without
+any need for entry and filing. In accordance with Rules
+77.07(6) and 1.04, no formal Judgment [Order] need be
+entered and filed unless an appeal or a motion for leave to
+appeal is brought to an appellate court. Any party to this
+Judgment [Order] may nonetheless submit a formal Judgment
+[Order] for original signing, entry and filing when the Court
+returns to regular operations.
+
+Date: May 20, 2021
+
+Appendix: Procedural Rulings
+
+The plaintiffs filed two procedural motions: the first deals with expert reports and the
+second deals with a request to seal a confidential affidavit and allow one of the plaintiffs
+to use the name “Jane Doe”.
+The motion for an Order declaring the reports of Bahman Jeldi dated March 17, 2021
+and Alireza Nader dated March 15, 2021 as expert reports is granted. Both are easily
+qualified as experts on Iran political and military matters. Mr. Jeldi is an Iranian Affairs
+Analyst with the Canadian Society for Persian Studies. Mr. Nader is a Senior Fellow at
+the Foundation for the Defense of Democracies, a specialist in Iranian issues and longtime advisor to the U.S. government. Both conclude their detailed analyses with the
+shared opinion that (i) the double-missile attack was intentional and (ii) the Islamic
+Republic of Iran and the United States were not engaged in an "armed conflict" as that
+term is known and understood at international law.
+The third report, written by a senior and experienced Canadian airline pilot, repeats the
+“intention” conclusions in the other reports and is not required for the purposes of this
+decision.
+The motion for an Order sealing the confidential affidavit of “Jane Doe” and allowing
+her to use this name in this proceeding is granted. I have reviewed the confidential
+
+- Page 14 -
+
+affidavit material. Jane Doe has a genuine and credible fear of reprisal against herself
+here in Canada and her family still in Iran. As she explains in her affidavit:
+After Iran shot down PS 752, I was threatened by Iranian officials not to
+talk to any media about what happened and not to engage in any public
+protests. I feared for my life.
+I have applied for refugee status in Canada. If I return to Iran, my life
+will be at risk. My participation as a plaintiff puts my life at further risk
+…I have no plans to leave Canada and no plans to return to Iran. Canada
+is my new home.
+I have asked to remain anonymous as a plaintiff. If I become known as a
+plaintiff my family in Iran will be in grave danger. I have a sister and a
+brother still living in Iran. My siblings are prominent Iranian citizens
+who hold top positions in their respective professions.
+My brother and sister each advised me and I believe, a high-ranking
+officer of the defendant Islamic Revolutionary Guard Corps (“IRGC”)
+contacted them multiple times over the past year. This IRGC officer
+threatened my family and me with arrest and jail time if we speak with
+the media, any foreigners, or engage in any political activity relating to
+the plane crash. My remaining family in Iran is under IRGC scrutiny
+because they are related to a person who lost his life when Iran shot the
+airplane down.
+If I become known as a plaintiff, there is a real and substantial risk the
+Iranian regime will take members of my family into custody where they
+will face torture and or be killed by the Iranian regime. They will do this
+to silence me.
+
+***
+
+
