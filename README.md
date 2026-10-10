@@ -17,7 +17,7 @@
 ## راه‌اندازی
 
 ```bash
-cd ~/hayula/laws-mcp && uv sync
+cd ~/laws-mcp && uv sync
 ```
 
 در `~/.config/opencode/opencode.jsonc`:
@@ -25,7 +25,7 @@ cd ~/hayula/laws-mcp && uv sync
 ```jsonc
 "iran-laws": {
   "type": "local",
-  "command": ["/home/saeed/hayula/laws-mcp/.venv/bin/python", "/home/saeed/hayula/laws-mcp/server.py"],
+  "command": ["/home/saeed/laws-mcp/.venv/bin/python", "/home/saeed/laws-mcp/server.py"],
   "timeout": 300000
 }
 ```
